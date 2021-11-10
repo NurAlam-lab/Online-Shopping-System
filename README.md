@@ -1,4 +1,4 @@
-# MERN Stack - Online shopping systems
+# Online shopping systems
 > Ecommerce website built with the MERN stack with React Context API for state management, pure CSS for style
 
 ## Demo: https://devat-ecommerce.herokuapp.com/
